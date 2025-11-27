@@ -8,4 +8,7 @@ Example:
 Technical advancements reached before AGI
 1) High cognition system as human level or more
 2) Re Enforcement Learning with Long Term reasoning
-3) Highly Accurate Autonomous Goal formation 
+3) Highly Accurate Autonomous Goal formation
+
+Impact:
+1) Removes all operational jobs (often called repetetive tasks)

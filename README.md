@@ -4,3 +4,8 @@
 Example:
 1) Can operate your crm
 2) Can edit your image/video
+
+Technical advancements reached before AGI
+1) High cognition system as human level or more
+2) Re Enforcement Learning with Long Term reasoning
+3) Highly Accurate Autonomous Goal formation 
